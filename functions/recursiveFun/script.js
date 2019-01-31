@@ -1,4 +1,4 @@
-
+//word Guessing game
 var secretWord = ["JavaScript","html","css","python","php","mysql"];
 var ram ;
 
